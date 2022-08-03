@@ -25,7 +25,7 @@ const aboutMe = {
 
 <br>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, React Native, Sequelize**
 

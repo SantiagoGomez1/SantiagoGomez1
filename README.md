@@ -58,8 +58,9 @@ const aboutMe = {
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
 <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoGomez1&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  
-<br>   
+   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoGomez1&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  
+  
    
 <h4 align="center">Visitor's :eyes:</h4>
 

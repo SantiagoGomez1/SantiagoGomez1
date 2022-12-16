@@ -17,7 +17,7 @@ const aboutMe = {
       backEnd: {
          js: ["Node", "Express"]
       },
-      databases: ["sequelize", "PostgreSQL"],
+      databases: ["sequelize", "PostgreSQL", "Mongo", "mongoose"],
    },
    currentOccupation: ["Teaching Assistant", "Henry Student"],
 };
@@ -32,7 +32,7 @@ const aboutMe = {
 <br>
 
 <h3 align="left">Look at my CV:</h3>
-<a href="https://docs.google.com/document/d/1HjMjSwXXlQLJzgy2ThwnR0xcnOiu1N9UkCRI9ZE0EAM/edit?usp=share_link" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/669px-Google_Drive_logo.png" alt="Drive" height="40" width="40" /></a>
+<a href="https://drive.google.com/file/d/1bacPzJ4X8q7UACXJrlZTCQ2k_xEYNH3S/view?usp=share_link" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/669px-Google_Drive_logo.png" alt="Drive" height="40" width="40" /></a>
 
 <br>
 

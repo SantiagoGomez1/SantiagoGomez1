@@ -11,15 +11,15 @@ const aboutMe = {
    code: [Javascript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React" ,"React Native", "Redux", "Redux Toolkit"],
-         css: ["Bootstrap","Native Base" ,"Material UI", "React Native Paper", "React Native Elements"]
+         js: ["React" ,"React Native", "Redux", "Redux Toolkit", "Next.js"],
+         css: ["SCSS","Bootstrap","Native Base" ,"Material UI", "React Native Paper", "React Native Elements"]
       },
       backEnd: {
          js: ["Node", "Express"]
       },
       databases: ["sequelize", "PostgreSQL", "Mongo", "mongoose"],
    },
-   currentOccupation: ["Teaching Assistant", "Henry Student"],
+   currentOccupation: ["Frontend developer in Daisies INC"],
 };
 ```
 

@@ -19,7 +19,7 @@ const aboutMe = {
       },
       databases: ["sequelize", "PostgreSQL", "Mongo", "mongoose"],
    },
-   currentOccupation: ["Frontend developer in Daisies INC"],
+   currentOccupation: ["Frontend developer in daisies INC"],
 };
 ```
 

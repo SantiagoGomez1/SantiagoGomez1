@@ -60,8 +60,3 @@ const aboutMe = {
 <br>
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoGomez1&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  
-  
-   
-<h4 align="center">Visitor's :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{cor2ba}/count.svg" alt="bryancpineda :: Visitor's Count" /></p>

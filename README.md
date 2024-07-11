@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I´m Santiago Gómez</h1>
-<h3 align="left">Full-Stack Developer</h3>
+<h3 align="left">Specialized in frontend & Backend Developer</h3>
 
-<h3 align="left">I live in Argentina, Buenos Aires. I graduated of Full-Stack developer web in Henry Bootcamp.I´m autodidact, I think the most valuable thing is time and I don't like to waste it, what makes me proactive, I like team work and create a good work environment with colleagues. I am currently looking for a job, I would like a job where I can expand my programming knowledge and work from home.</h3>
+<h3 align="left">I live in Argentina, Buenos Aires. I graduated of Full-Stack developer web in Henry Bootcamp.I´m autodidact, I think the most valuable thing is time and I don't like to waste it, what makes me proactive, I like team work and create a good work environment with colleagues.
 
 <br>
 

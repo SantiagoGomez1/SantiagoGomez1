@@ -8,26 +8,26 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS],
+   code: [TypeScript],
    technologies: {
       frontEnd: {
-         js: ["React" ,"React Native", "Redux", "Redux Toolkit", "Next.js"],
-         css: ["SCSS","Bootstrap","Native Base" ,"Material UI", "React Native Paper", "React Native Elements"]
+         ts: ["React" ,"React Native", "Redux", "Redux Toolkit", "Next.js"],
+         css: ["Tailwind", "SCSS", "ShadUI"]
       },
       backEnd: {
-         js: ["Node", "Express"]
+         ts: ["Node", "Express"]
       },
-      databases: ["sequelize", "PostgreSQL", "Mongo", "mongoose"],
+      databases: ["MongoDB", PostgreSQL],
    },
-   currentOccupation: ["Frontend developer in daisies INC"],
+   currentOccupation: ["Frontend/App & Backend in Neuron Health"],
 };
 ```
 
 <br>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Software Architecture** & **English**
 
-- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, React Native, Sequelize**
+- 💬 Ask me about **TypeScript, React, Redux, HTML, CSS, Node, Express, MongoDB, PostgreSQL, React Native, Sequelize**
 
 <br>
 

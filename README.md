@@ -4,6 +4,7 @@
 <h3 align="left">I live in Argentina, Buenos Aires. I graduated of Full-Stack developer web in Henry Bootcamp.I´m autodidact, I think the most valuable thing is time and I don't like to waste it, what makes me proactive, I like team work and create a good work environment with colleagues.
 
 <br>
+<br>
 
 ```javascript
 const aboutMe = {
@@ -27,7 +28,7 @@ const aboutMe = {
 
 - 🌱 I’m currently learning **Software Architecture** & **English**
 
-- 💬 Ask me about **TypeScript, React, Redux, HTML, CSS, Node, Express, MongoDB, PostgreSQL, React Native, Sequelize**
+- 💬 Ask me about **music or cooking**
 
 <br>
 
